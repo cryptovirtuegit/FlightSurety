@@ -11,7 +11,7 @@ To install, download or clone the repo, then:
 * npm install
 * truffle compile
 
-** Development Environment Version
+**Development Environment Version**
 * Node version number : v8.9.4
 * Truffle version number : v5.1.18 (core: 5.1.18)
 * Web3 version number : v1.2.1
@@ -19,17 +19,17 @@ To install, download or clone the repo, then:
 
 ## Develop Client
 
-** To run truffle tests:
+**To run truffle tests:**
 
 * truffle test ./test/flightSurety.js
 * truffle test ./test/oracles.js
 
-** To use the dapp:
+**To use the dapp:**
 
 * truffle migrate --reset
 * npm run dapp
 
-** To view dapp:
+**To view dapp:**
 
 * http://localhost:8000`
 
